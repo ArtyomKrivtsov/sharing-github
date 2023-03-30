@@ -1,0 +1,261 @@
+Source,Target,Type,Id,Label,Weight
+Harry,Dudley,Directed,0,,2
+Harry,his parents,Directed,1,,3
+Harry,the man,Directed,2,,1
+Harry,no one,Directed,3,,1
+Harry,Mrs. Dursley,Directed,4,,1
+Harry,no friends,Directed,5,,1
+Harry,Mr. Dursley,Directed,6,,2
+Harry,the Dursleys,Directed,8,,2
+Harry,dad,Directed,10,,1
+Harry,Hagrid,Directed,11,,6
+Harry,they,Directed,12,,1
+Harry,the guard,Directed,15,,1
+Harry,the twins,Directed,16,,1
+Harry,Ron,Directed,17,,13
+Harry,Morgana,Directed,18,,1
+Harry,Slytherin,Directed,20,,1
+Harry,Dumbledore,Directed,21,,1
+Harry,Quirrell,Directed,22,,3
+Harry,Percy,Directed,23,,1
+Harry,Snape,Directed,24,,3
+Harry,"Neville , who had been drenched in the potion when the cauldron",Directed,26,,1
+Harry,Malfoy,Directed,29,,1
+Harry,Hermione,Directed,30,,10
+Harry,Filch,Directed,31,,2
+Harry,Parvati Patil,Directed,33,,1
+Harry,Seeker,Directed,35,,1
+Harry,them,Directed,41,,4
+Harry,Fred,Directed,43,,1
+Harry,George,Directed,44,,1
+Harry,their,Directed,46,,1
+Harry,A woman standing right behind his reflection,Directed,50,,1
+Harry,anyone,Directed,53,,1
+Harry,Quidditch,Directed,55,,1
+Harry,the other two,Directed,56,,2
+Harry,the others,Directed,68,,1
+Harry,Neville,Directed,69,,1
+Harry,we,Directed,70,,1
+Harry,Voldemort,Directed,78,,1
+Ron,Harry,Directed,79,,7
+Ron,Fred,Directed,81,,1
+Ron,Hagrid,Directed,83,,2
+Ron,Seeker,Directed,85,,1
+Ron,Malfoy,Directed,86,,2
+Ron,Hermione,Directed,87,,4
+Ron,Neville,Directed,88,,1
+Ron,Seamus,Directed,89,,1
+Ron,Dean,Directed,90,,1
+Ron,old chessmen,Directed,94,,1
+Ron,you,Directed,98,,1
+Ron,Madam Pomfrey,Directed,99,,1
+Ron,Trevor,Directed,100,,1
+Ron,They,Directed,103,,1
+Hagrid,the boy,Directed,104,,1
+Hagrid,Harry,Directed,105,,10
+Hagrid,Mr. Dursley,Directed,106,,1
+Hagrid,Hogwarts,Directed,107,,2
+Hagrid,the others,Directed,110,,1
+Hagrid,Ron,Directed,116,,1
+Hagrid,Flamel,Directed,117,,1
+Hagrid,yeh,Directed,118,,1
+Hagrid,their,Directed,119,,3
+Hagrid,Norbert,Directed,121,,1
+Hagrid,Hermione,Directed,124,,1
+Hagrid,we,Directed,125,,1
+Hagrid,Ronan,Directed,126,,1
+Hagrid,Voldemort,Directed,128,,1
+Hagrid,anyone,Directed,129,,1
+Hagrid,the stranger you were playing cards with,Directed,131,,1
+Hagrid,that stranger,Directed,132,,1
+Hagrid,the evil git,Directed,134,,1
+Hermione,Ron,Directed,177,,7
+Hermione,their,Directed,178,,1
+Hermione,no friends,Directed,182,,1
+Hermione,them,Directed,183,,1
+Hermione,Harry,Directed,184,,4
+Hermione,Neville,Directed,185,,3
+Hermione,Seamus,Directed,186,,1
+Hermione,Quirrell,Directed,187,,1
+Hermione,the others,Directed,194,,1
+Hermione,the two boys,Directed,197,,1
+Neville,Harry,Directed,199,,1
+Neville,the people in the portraits along the corridors,Directed,200,,1
+Neville,Ron,Directed,201,,1
+Neville,Malfoy,Directed,202,,1
+Neville,the other two,Directed,203,,1
+Neville,Trevor,Directed,204,,1
+Dudley,Harry,Directed,205,,5
+Dudley,people,Directed,207,,1
+Dudley,Both of them,Directed,208,,1
+Dudley,Mrs. Figg,Directed,209,,1
+Dudley,his father,Directed,211,,1
+Dudley,Mrs. Dursley,Directed,213,,1
+Dudley,his mother,Directed,214,,1
+Professor McGonagall,Dumbledore,Directed,216,,2
+Professor McGonagall,Harry,Directed,218,,3
+Professor McGonagall,the class,Directed,219,,1
+Professor McGonagall,them,Directed,221,,1
+Professor McGonagall,Wood,Directed,222,,1
+Professor McGonagall,Malfoy,Directed,223,,1
+Professor McGonagall,Neville,Directed,224,,1
+Snape,them,Directed,226,,2
+Snape,Harry,Directed,227,,6
+Snape,everyone,Directed,232,,1
+Snape,Quirrell,Directed,235,,1
+Snape,They,Directed,236,,1
+Snape,Fluffy,Directed,237,,1
+Snape,you,Directed,238,,1
+Quirrell,Harry,Directed,239,,3
+Quirrell,Vampires,Directed,240,,1
+Quirrell,they,Directed,241,,1
+Quirrell,the students,Directed,242,,1
+Quirrell,you,Directed,247,,1
+Quirrell,My father,Directed,249,,1
+Malfoy,Harry,Directed,250,,2
+Malfoy,the dragon,Directed,252,,1
+Malfoy,Fang,Directed,253,,1
+Mr. Dursley,Harry,Directed,254,,11
+Mr. Dursley,Mrs. Dursley,Directed,257,,3
+Mr. Dursley,Dudley,Directed,259,,1
+Mr. Dursley,we,Directed,260,,1
+Mr. Dursley,They,Directed,263,,3
+Mr. Dursley,Hagrid,Directed,271,,1
+Mr. Dursley,Dursley,Directed,272,,1
+Dumbledore,Professor McGonagall,Directed,274,,2
+Dumbledore,Harry,Directed,276,,4
+Dumbledore,that motorcycle,Directed,277,,1
+Mr. Dursley,the people in cloaks,Directed,280,,1
+Mr. Dursley,the boy,Directed,281,,1
+Dumbledore,us,Directed,286,,1
+the Dursleys,a small son,Directed,287,,3
+the Dursleys,Dudley,Directed,290,,1
+the Dursleys,Piers,Directed,291,,1
+the Dursleys,Harry,Directed,292,,2
+Mrs. Dursley,Harry,Directed,294,,3
+Mrs. Dursley,Dudley,Directed,295,,2
+Wood,Ron,Directed,298,,1
+Wood,we,Directed,299,,1
+Wood,Harry,Directed,300,,3
+Wood,women,Directed,303,,1
+Voldemort,They,Directed,304,,1
+Voldemort,Ron,Directed,305,,1
+Voldemort,my parents,Directed,306,,1
+Voldemort,Quirrell,Directed,308,,1
+Voldemort,my mother,Directed,309,,1
+Percy,Harry,Directed,310,,1
+Percy,the people in the portraits along the corridors,Directed,311,,1
+Percy,Ron,Directed,312,,1
+Peeves,you,Directed,313,,2
+the giant,Harry,Directed,315,,2
+everyone,Quidditch,Directed,317,,1
+people,Harry,Directed,318,,3
+people,Hagrid,Directed,321,,1
+Filch,Ron,Directed,322,,1
+Filch,Harry,Directed,323,,1
+Filch,Charlie ’s friends,Directed,324,,1
+Slytherin,Harry,Directed,325,,1
+Slytherin,Spinnet,Directed,326,,1
+Filch,students,Directed,328,,1
+Fred,Harry,Directed,329,,2
+they,Filch,Directed,331,,1
+Mrs. Dursley,a sister,Directed,332,,2
+Mrs. Dursley,Mr. Dursley,Directed,334,,1
+the other two,Malfoy,Directed,336,,1
+the other two,Harry,Directed,337,,1
+Norbert,Hagrid,Directed,339,,1
+Firenze,the Potter boy,Directed,340,,1
+Firenze,Harry,Directed,341,,3
+the three of them,Hagrid,Directed,344,,1
+Madam Hooch,their,Directed,345,,1
+Madam Hooch,Malfoy,Directed,346,,1
+Madam Hooch,us,Directed,347,,1
+Professor Flitwick,Dumbledore,Directed,348,,1
+Professor Flitwick,they,Directed,349,,1
+the students,Filch,Directed,350,,1
+Gryffindor,the team,Directed,351,,1
+Gryffindor,Harry,Directed,352,,1
+they,Fang,Directed,353,,1
+they,Hagrid,Directed,354,,2
+they,Norbert,Directed,355,,1
+Mr. Ollivander,Harry,Directed,356,,1
+his parents,Dudley,Directed,359,,1
+his parents,a friend,Directed,360,,1
+his parents,Slytherin,Directed,361,,1
+they,Hufflepuffs,Directed,362,,1
+they,Percy,Directed,363,,1
+no one,Voldemort,Directed,364,,1
+no one,Hermione,Directed,365,,1
+no one,they,Directed,366,,1
+Madam Pomfrey,Professor McGonagall,Directed,367,,1
+Madam Pomfrey,Harry,Directed,368,,1
+someone,You,Directed,369,,1
+someone,Ron,Directed,370,,1
+someone,Harry,Directed,371,,1
+Seamus,Harry,Directed,372,,1
+Voldemort,We,Directed,373,,1
+you,Neville,Directed,374,,2
+you,anyone else,Directed,375,,1
+Charlie ’s friends,Harry,Directed,376,,1
+Charlie ’s friends,Hermione,Directed,377,,1
+Charlie ’s friends,Norbert,Directed,378,,1
+the twins,Percy,Directed,379,,1
+Mrs. Norris,Ron,Directed,380,,1
+they,Madam Pince,Directed,382,,1
+they,Flamel,Directed,383,,1
+Hedwig,Harry,Directed,384,,1
+the Weasley twins,Harry,Directed,385,,1
+the Weasley twins,Quirrell,Directed,386,,1
+The rest of the team,Harry,Directed,387,,2
+Lee Jordan,Professor McGonagall,Directed,389,,1
+you two,dear,Directed,390,,1
+you two,Dumbledore,Directed,391,,1
+Mom,that black haired boy who was near us in the station,Directed,392,,2
+Mom,Ginny,Directed,394,,1
+His aunt,Harry,Directed,395,,1
+his father,Dudley,Directed,396,,1
+Professor,Professor McGonagall,Directed,398,,1
+you,the Poltergeist,Directed,399,,1
+nobody,the three of them,Directed,400,,1
+They,Hagrid,Directed,401,,1
+uncle,Harry,Directed,402,,1
+my dratted sister,they,Directed,403,,1
+their mother,Percy,Directed,404,,1
+their,Hagrid,Directed,405,,1
+they,Harry,Directed,406,,3
+this wizard,’em,Directed,408,,1
+Scabbers,we,Directed,409,,1
+Great Uncle Algie,Neville,Directed,410,,1
+us,Neville,Directed,411,,1
+The white queen,their other knight,Directed,412,,2
+The white queen,Ron,Directed,414,,2
+Madam Malkin,Harry,Directed,416,,1
+them,Hermione,Directed,418,,1
+Dudley ’s gang,Harry,Directed,420,,2
+Mom,a second cousin,Directed,422,,1
+their,the crowd,Directed,423,,1
+chessmen,Harry,Directed,424,,1
+Yer parents,Hagrid,Directed,425,,1
+you,you,Directed,426,,1
+you,Norbert,Directed,428,,1
+you,an owl,Directed,429,,1
+The Potters,a small son,Directed,430,,1
+Terry,Ravenclaws,Directed,431,,1
+They,Professor McGonagall,Directed,434,,1
+Mommy,the dragon,Directed,437,,1
+The zoo director,Mrs. Dursley,Directed,438,,1
+Doris Crockford,Harry,Directed,439,,1
+his grandmother,Neville,Directed,440,,1
+she,us,Directed,442,,1
+some friends of mine who are coming to visit me next week,Ron,Directed,443,,1
+We,Ronan,Directed,444,,1
+Ravenclaw,us,Directed,445,,1
+My dear Professor,Dumbledore,Directed,446,,1
+Bungler,Voldemort,Directed,447,,1
+We,You,Directed,448,,1
+We,George,Directed,449,,1
+We,you,Directed,450,,1
+Anyone interested in playing for their house teams,Madam Hooch,Directed,451,,1
+It,Harry,Directed,452,,1
+us,Hagrid,Directed,453,,1
+they,people,Directed,455,,1

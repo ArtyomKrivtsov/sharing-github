@@ -1,0 +1,107 @@
+Source,Target,Type,Id,Label,Weight
+Harry,Dudley,Directed,456,,2
+Harry,Mrs. Dursley,Directed,457,,1
+Harry,Mr. Dursley,Directed,458,,2
+Harry,the Dursleys,Directed,460,,2
+Harry,Hagrid,Directed,462,,6
+Harry,Ron,Directed,465,,13
+Harry,Morgana,Directed,466,,1
+Harry,Slytherin,Directed,468,,1
+Harry,Dumbledore,Directed,469,,1
+Harry,Quirrell,Directed,470,,3
+Harry,Percy,Directed,471,,1
+Harry,Snape,Directed,472,,3
+Harry,Malfoy,Directed,476,,1
+Harry,Hermione,Directed,477,,10
+Harry,Filch,Directed,478,,2
+Harry,Parvati Patil,Directed,480,,1
+Harry,Seeker,Directed,482,,1
+Harry,Fred,Directed,488,,1
+Harry,George,Directed,489,,1
+Harry,Quidditch,Directed,495,,1
+Harry,Neville,Directed,505,,1
+Harry,Voldemort,Directed,512,,1
+Ron,Harry,Directed,513,,7
+Ron,Fred,Directed,515,,1
+Ron,Hagrid,Directed,517,,2
+Ron,Seeker,Directed,519,,1
+Ron,Malfoy,Directed,520,,2
+Ron,Hermione,Directed,521,,4
+Ron,Neville,Directed,522,,1
+Ron,Seamus,Directed,523,,1
+Ron,Dean,Directed,524,,1
+Ron,Madam Pomfrey,Directed,531,,1
+Ron,Trevor,Directed,532,,1
+Hagrid,Harry,Directed,535,,10
+Hagrid,Mr. Dursley,Directed,536,,1
+Hagrid,Hogwarts,Directed,537,,2
+Hagrid,Ron,Directed,545,,1
+Hagrid,Flamel,Directed,546,,1
+Hagrid,Norbert,Directed,547,,1
+Hagrid,Hermione,Directed,549,,1
+Hagrid,Ronan,Directed,550,,1
+Hagrid,Voldemort,Directed,552,,1
+Hermione,Ron,Directed,577,,7
+Hermione,Harry,Directed,581,,4
+Hermione,Neville,Directed,582,,3
+Hermione,Seamus,Directed,583,,1
+Hermione,Quirrell,Directed,584,,1
+Neville,Harry,Directed,594,,1
+Neville,Ron,Directed,595,,1
+Neville,Malfoy,Directed,596,,1
+Neville,Trevor,Directed,597,,1
+Dudley,Harry,Directed,598,,5
+Dudley,Mrs. Figg,Directed,600,,1
+Dudley,Mrs. Dursley,Directed,603,,1
+Professor McGonagall,Dumbledore,Directed,605,,2
+Professor McGonagall,Harry,Directed,607,,3
+Professor McGonagall,Wood,Directed,609,,1
+Professor McGonagall,Malfoy,Directed,610,,1
+Professor McGonagall,Neville,Directed,611,,1
+Snape,Harry,Directed,613,,6
+Snape,Quirrell,Directed,619,,1
+Snape,Fluffy,Directed,620,,1
+Quirrell,Harry,Directed,621,,3
+Malfoy,Harry,Directed,627,,2
+Malfoy,Fang,Directed,629,,1
+Mr. Dursley,Harry,Directed,630,,11
+Mr. Dursley,Mrs. Dursley,Directed,633,,3
+Mr. Dursley,Dudley,Directed,635,,1
+Mr. Dursley,Hagrid,Directed,643,,1
+Mr. Dursley,Dursley,Directed,644,,1
+Dumbledore,Professor McGonagall,Directed,646,,2
+Dumbledore,Harry,Directed,648,,4
+the Dursleys,Dudley,Directed,655,,1
+the Dursleys,Piers,Directed,656,,1
+the Dursleys,Harry,Directed,657,,2
+Mrs. Dursley,Harry,Directed,659,,3
+Mrs. Dursley,Dudley,Directed,660,,2
+Wood,Ron,Directed,663,,1
+Wood,Harry,Directed,664,,3
+Voldemort,Ron,Directed,667,,1
+Voldemort,Quirrell,Directed,669,,1
+Percy,Harry,Directed,670,,1
+Percy,Ron,Directed,671,,1
+Filch,Ron,Directed,672,,1
+Filch,Harry,Directed,673,,1
+Slytherin,Harry,Directed,674,,1
+Slytherin,Spinnet,Directed,675,,1
+Fred,Harry,Directed,677,,2
+Mrs. Dursley,Mr. Dursley,Directed,680,,1
+Norbert,Hagrid,Directed,681,,1
+Firenze,Harry,Directed,682,,3
+Madam Hooch,Malfoy,Directed,685,,1
+Professor Flitwick,Dumbledore,Directed,686,,1
+Gryffindor,Harry,Directed,687,,1
+Mr. Ollivander,Harry,Directed,688,,1
+Madam Pomfrey,Professor McGonagall,Directed,689,,1
+Madam Pomfrey,Harry,Directed,690,,1
+Seamus,Harry,Directed,691,,1
+Mrs. Norris,Ron,Directed,692,,1
+Hedwig,Harry,Directed,693,,1
+Lee Jordan,Professor McGonagall,Directed,694,,1
+Great Uncle Algie,Neville,Directed,696,,1
+Madam Malkin,Harry,Directed,697,,1
+Terry,Ravenclaws,Directed,698,,1
+Doris Crockford,Harry,Directed,699,,1
+Bungler,Voldemort,Directed,700,,1
