@@ -1,0 +1,88 @@
+E1,E2,W
+Clyde,Orville Mason,2.0
+Clyde,the detective,1.0
+Clyde,Roberta,37.0
+Clyde,Sondra,4.0
+Clyde,Bertine,1.0
+Clyde,Frederick Sells,1.0
+Clyde,Harley Baggott,1.0
+Clyde,Belknap,2.0
+Clyde,Fred Heit,1.0
+Clyde,Orrin Short,1.0
+Clyde,Earl Newcomb,2.0
+Clyde,Jephson,4.0
+Clyde,Justice Oberwaltzer,1.0
+Clyde,Mrs. Griffiths,3.0
+Clyde,Duncan McMillan,1.0
+Roberta,Clyde,6.0
+Roberta,Orville Mason,3.0
+Roberta,Justice Oberwaltzer,1.0
+Roberta,Grace Marr,1.0
+Roberta,John W. Troescher,1.0
+Orville Mason,Mr. Alden,3.0
+Orville Mason,Sondra,1.0
+Orville Mason,Jephson,1.0
+Orville Mason,Belknap,1.0
+Orville Mason,the clerk,1.0
+Orville Mason,Clyde,9.0
+Orville Mason,Dodge,1.0
+Orville Mason,Mrs. Donahue,2.0
+Orville Mason,Roberta,3.0
+Jephson,Orville Mason,1.0
+Jephson,Clyde,9.0
+Jephson,Belknap,2.0
+Jephson,Fred Heit,1.0
+Mrs. Griffiths,Clyde,8.0
+Mrs. Griffiths,David Waltham,1.0
+Belknap,Jephson,1.0
+Belknap,Roberta,4.0
+Belknap,Sondra,1.0
+Belknap,Clyde,1.0
+Belknap,Fred Heit,1.0
+Belknap,Burton Burleigh,1.0
+Belknap,the judge,1.0
+Sondra,Clyde,7.0
+Sondra,Burchard,1.0
+Sondra,Bertine,2.0
+Orville Mason,the sheriff at Bridgeburg,1.0
+Duncan McMillan,Clyde,5.0
+Duncan McMillan,Mrs. Griffiths,1.0
+Mr. Alden,Orville Mason,2.0
+Mr. Alden,the mailman,1.0
+Smillie,Roberta,1.0
+Smillie,Clyde,1.0
+Justice Oberwaltzer,the jury,1.0
+Burchard,Clyde,1.0
+Burchard,Sondra,1.0
+Clyde,Mr. Alden,1.0
+Samuel Griffiths,Clyde,2.0
+Gilbert,Clyde,1.0
+Mrs. Alden,Orville Mason,1.0
+Burton Burleigh,Dr. Glenn,3.0
+Heit,Roberta,1.0
+Catchuman,Belknap,1.0
+Clifford Golden,Clyde,1.0
+Frank,Mrs. Griffiths,1.0
+Brookhart,Catchuman,1.0
+Brookhart,Belknap,1.0
+Wallace,Earl Newcomb,1.0
+Bertine,Roberta,1.0
+the judge,Jephson,1.0
+Slack,Clyde,1.0
+Atterbury,Orville Mason,2.0
+John W. Troescher,Roberta,2.0
+John W. Troescher,Clyde,1.0
+Mr. Alden,Bert,1.0
+Stuart,Clyde,1.0
+Julia,Mrs. Griffiths,1.0
+the managing editor,Mrs. Griffiths,2.0
+John Pole,Roberta,1.0
+Grace Marr,Roberta,1.0
+Dr. Glenn,Roberta,1.0
+Baker,Roberta,1.0
+a letter-carrier,Roberta,1.0
+a letter-carrier,Clyde,1.0
+the editor,Mrs. Griffiths,1.0
+the country girl,Orville Mason,1.0
+the country girl,Clyde,1.0
+Blanche Pettingill,Clyde,1.0
