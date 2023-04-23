@@ -1,0 +1,76 @@
+E1,E2,W
+Elizabeth,Miss Bingley,1
+Elizabeth,Jane,6
+Elizabeth,Mr. Hurst,2
+Elizabeth,Mr. Darcy,17
+Elizabeth,George Wickham,3
+Elizabeth,Mr. Collins,2
+Elizabeth,Miss Lucas,2
+Elizabeth,Sir William,2
+Elizabeth,Maria,1
+Elizabeth,Mrs. Collins,1
+Elizabeth,Colonel Fitzwilliam,1
+Elizabeth,Mr. Bingley,4
+Elizabeth,Lady Katherine,2
+Elizabeth,the waiter,1
+Elizabeth,the chambermaid,1
+Elizabeth,Mr. Gardiner,1
+Mr. Darcy,Elizabeth,18
+Mr. Darcy,Miss Bingley,2
+Mr. Darcy,Colonel Fitzwilliam,1
+Mr. Darcy,George Wickham,1
+Jane,Elizabeth,2
+Jane,Miss Bingley,2
+Jane,the waiter,1
+Jane,Mr. Bingley,1
+Jane,Mr. Bennet,1
+Mr. Collins,Mrs. Bennet,1
+Mr. Collins,Mr. Bennet,1
+Mr. Collins,Elizabeth,6
+Mr. Collins,Mrs. Phillips,2
+Mr. Collins,Sir William,1
+Mr. Bingley,Jane,1
+Mr. Bingley,Elizabeth,2
+Mrs. Bennet,Jane,2
+Mrs. Bennet,Mr. Collins,2
+Mrs. Bennet,Lady Lucas,1
+Mrs. Bennet,Elizabeth,3
+Mrs. Bennet,Mary,1
+Mrs. Bennet,Mr. Bingley,5
+Mrs. Bennet,Lady Katherine,2
+George Wickham,Elizabeth,4
+Lydia,Mr. Collins,1
+Lydia,George Wickham,1
+Lydia,Miss Lucas,1
+Lydia,Mr. Darcy,1
+Lydia,Colonel Fitzwilliam,1
+Lydia,Elizabeth,2
+Lady Katherine,Elizabeth,1
+Lady Katherine,Mr. Darcy,3
+Mr. Bennet,Elizabeth,1
+Miss Bingley,Mr. Jones,1
+Miss Bingley,Elizabeth,2
+Miss Bingley,Mr. Darcy,1
+Miss Lucas,Mr. Collins,1
+Miss Lucas,Elizabeth,2
+Miss Lucas,Lady Katherine,1
+Miss Lucas,Sir William,1
+Mrs. Gardiner,Mr. Darcy,1
+Mrs. Gardiner,George Wickham,1
+Mrs. Gardiner,Elizabeth,3
+Mrs. Gardiner,Georgiana,1
+Sir William,Mr. Collins,1
+Georgiana,Miss Bingley,1
+Mr. Gardiner,Elizabeth,1
+Mr. Gardiner,Mr. Bennet,1
+Colonel Fitzwilliam,Elizabeth,3
+Miss Lucas,Mr. Darcy,2
+Mrs. Phillips,Mr. Collins,1
+Mrs. Collins,Colonel Fitzwilliam,1
+Mrs. Collins,Elizabeth,1
+Mrs. Hurst,Elizabeth,2
+Mr. Hurst,Mr. Darcy,1
+Mrs. Reynolds,Elizabeth,1
+Denny,Mr. Collins,1
+Mrs. Forster,Lydia,1
+Mrs. Wickham,Kitty,1
