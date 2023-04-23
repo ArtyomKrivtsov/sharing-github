@@ -1,0 +1,205 @@
+E1,E2,W
+Harry,Dumbledore,20
+Harry,Kreacher,2
+Harry,Dolores Umbridge,1
+Harry,Sirius,3
+Harry,Slughorn,14
+Harry,Tonks,3
+Harry,Crookshanks,1
+Harry,"Mr, Weasley",2
+Harry,Hermione,36
+Harry,Fred,1
+Harry,Ginny,15
+Harry,Neville,2
+Harry,Zabini,1
+Harry,Goyle,1
+Harry,Malfoy,13
+Harry,Snape,5
+Harry,Ron,26
+Harry,Professor Trelawney,4
+Harry,Grawp,1
+Harry,Ogden,2
+Harry,Hagrid,4
+Harry,Mundungus,2
+Harry,Professor McGonagall,2
+Harry,Riddle,1
+Harry,Dean,2
+Harry,Seamus,1
+Harry,Zacharias Smith,1
+Harry,Lavender,1
+Harry,Luna,6
+Harry,Worple,1
+Harry,Lupin,4
+Harry,Voldemort,5
+Harry,Dobby,3
+Harry,Moaning Myrtle,1
+Harry,Peeves,1
+Harry,Greyback,1
+Harry,Alecto,1
+Harry,Madam Pomfrey,1
+Harry,the Fat Lady,1
+Harry,Professor Sprout,1
+Harry,Scrimgeour,1
+Dumbledore,Snape,5
+Dumbledore,Dudley,1
+Dumbledore,Harry,32
+Dumbledore,Uncle Vernon,1
+Dumbledore,Voldemort,5
+Dumbledore,Ogden,2
+Dumbledore,Caractacus Burke,1
+Dumbledore,"Mrs, Cole",1
+Dumbledore,Riddle,6
+Dumbledore,Phineas Nigellus,1
+Dumbledore,Slughorn,1
+Dumbledore,Firenze,1
+Dumbledore,Sybill,1
+Dumbledore,Armando,1
+Dumbledore,Hagrid,1
+Dumbledore,Malfoy,1
+Dumbledore,Amycus,1
+Dumbledore,Bill,1
+Ron,Harry,12
+Ron,Fleur,1
+Ron,Nearly Headless Nick,1
+Ron,Hermione,11
+Ron,Ernie,1
+Ron,Demelza,2
+Ron,Ginny,1
+Ron,Seamus,1
+Ron,Romilda Vane,2
+Hermione,Harry,21
+Hermione,Ron,10
+Hermione,Professor McGonagall,1
+Hermione,Malfoy,1
+Hermione,Slughorn,1
+Hermione,Krum,1
+Hermione,Lavender,1
+Hermione,Zacharias Smith,1
+Hermione,McLaggen,2
+Hermione,Snape,2
+Hermione,Luna,1
+Malfoy,Snape,3
+Malfoy,Harry,2
+Malfoy,Pansy,1
+Malfoy,Slughorn,1
+Malfoy,Borgin,1
+Malfoy,Goyle,1
+Malfoy,Katie,2
+Malfoy,Dumbledore,2
+Slughorn,Harry,14
+Slughorn,Neville,3
+Slughorn,Zabini,1
+Slughorn,Hermione,2
+Slughorn,Filch,1
+Slughorn,Ron,1
+Slughorn,Riddle,1
+Slughorn,Snape,1
+Snape,Narcissa,2
+Snape,Voldemort,5
+Snape,Bellatrix,1
+Snape,Dumbledore,5
+Snape,Malfoy,7
+Snape,Harry,5
+Snape,Lupin,1
+Hagrid,Buckbeak,1
+Hagrid,Harry,2
+Snape,Slughorn,1
+Snape,Sirius,2
+Snape,Professor McGonagall,1
+Snape,Professor Flitwick,1
+Snape,Hermione,1
+Ginny,Ron,3
+Ginny,"Mrs, Weasley",1
+Ginny,Michael Corner,1
+Ginny,Harry,6
+Ginny,Slughorn,1
+Ginny,Dean,2
+Voldemort,Harry,2
+Voldemort,Neville,1
+Voldemort,Slughorn,1
+Voldemort,Professor Dippet,1
+Voldemort,Malfoy,3
+Voldemort,Ginny,1
+Riddle,Merope,1
+Riddle,Dumbledore,3
+Slughorn,Dumbledore,2
+Slughorn,"Mr, Weasley",1
+"Mrs, Weasley",Harry,3
+"Mrs, Weasley",Fleur,3
+the Prime Minister,Fudge,2
+Scrimgeour,Fudge,2
+Scrimgeour,Luna,1
+Scrimgeour,Harry,2
+Scrimgeour,Dawlish,1
+Fudge,the Prime Minister,3
+Professor McGonagall,Neville,1
+Professor McGonagall,Dumbledore,1
+Professor McGonagall,Ron,1
+Professor McGonagall,Snape,1
+Lupin,Harry,3
+Tonks,Harry,2
+Tonks,Ron,1
+Tonks,Hermione,1
+Ogden,Gaunt,1
+Neville,Slughorn,1
+Luna,Hermione,1
+Luna,Scrimgeour,1
+Kreacher,Malfoy,1
+"Mr, Weasley",Harry,3
+"Mr, Weasley",Snape,1
+"Mr, Weasley",Percy,1
+"Mr, Weasley",Professor McGonagall,1
+McLaggen,Harry,3
+Bellatrix,Snape,1
+"Mrs, Cole",Dumbledore,4
+Bill,Fleur,2
+Fred,Harry,1
+Fred,Ginny,1
+Gaunt,Ogden,1
+Gaunt,Merope,1
+Dean,Seamus,1
+Voldemort,Snape,2
+Voldemort,Bellatrix,2
+Voldemort,Narcissa,1
+George,Harry,1
+Borgin,Malfoy,3
+Lavender,Hermione,1
+Lavender,Ron,1
+Lavender,Harry,1
+Zabini,Zacharias Smith,1
+Zabini,Slughorn,1
+Madam Pomfrey,Harry,1
+Madam Pomfrey,Dumbledore,1
+Greyback,Malfoy,1
+Greyback,Bill,1
+Percy,Harry,1
+Moaning Myrtle,Harry,1
+Moaning Myrtle,Malfoy,1
+Hepzibah,Voldemort,1
+Hepzibah,Harry,2
+Seamus,Harry,1
+Seamus,Ron,1
+Rosmerta,Malfoy,1
+Filch,Malfoy,1
+Filch,Harry,1
+Parvati,Lavender,1
+Parvati,Hermione,1
+"Mr, Weasley","Mrs, Weasley",1
+Peakes,Harry,1
+Marvolo,Ogden,1
+Leanne,Katie,1
+Leanne,Professor McGonagall,1
+"Mr, Burke",Hepzibah,1
+Professor Sprout,Ron,1
+Peeves,Harry,1
+Demelza,Peakes,1
+Worple,Harry,1
+Dolores Umbridge,Harry,1
+Grawp,Hagrid,2
+Harper,Harry,1
+Montague,Malfoy,1
+Coote,Harry,1
+Professor Dippet,Voldemort,1
+Krum,Hermione,1
+Filius,Snape,1
+Wormtail,Voldemort,1
