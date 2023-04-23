@@ -1,0 +1,245 @@
+E1,E2,W
+Harry,Voldemort,1.0
+Harry,Hedwig,5.0
+Harry,Uncle Vernon,2.0
+Harry,Sirius,6.0
+Harry,Bill,1.0
+Harry,Mr. Weasley,2.0
+Harry,Ron,24.0
+Harry,Hermione,26.0
+Harry,Dobby,5.0
+Harry,the Bulgarian minister,2.0
+Harry,Mostafa,1.0
+Harry,Krum,3.0
+Harry,Stan Shunpike,1.0
+Harry,Moody,6.0
+Harry,Neville,3.0
+Harry,Dumbledore,11.0
+Harry,Hagrid,8.0
+Harry,Cedric,10.0
+Harry,the Fat Lady,1.0
+Harry,Goyle,2.0
+Harry,Snape,3.0
+Harry,Fleur,2.0
+Harry,Mr. Ollivander,1.0
+Harry,Cho,6.0
+Harry,Madame Maxime,4.0
+Harry,Professor Sprout,1.0
+Harry,Lucius Malfoy,1.0
+Harry,Professor McGonagall,4.0
+Harry,Ginny,2.0
+Harry,Dudley,1.0
+Harry,Parvati,2.0
+Harry,Professor Grubbly - Plank,1.0
+Harry,Bagman,1.0
+Harry,Myrtle,1.0
+Harry,Peeves,1.0
+Harry,the Horntail,1.0
+Harry,Fleur ’s sister,3.0
+Harry,Padma,1.0
+Harry,Crouch,1.0
+Harry,Pansy Parkinson,1.0
+Harry,Frank,1.0
+Harry,Fudge,1.0
+Harry,Mrs. Diggory,1.0
+Ron,Harry,22.0
+Ron,Malfoy,1.0
+Ron,Krum,4.0
+Ron,Neville,2.0
+Ron,George,1.0
+Ron,Hedwig,1.0
+Ron,Hermione,8.0
+Ron,Madame Maxime,1.0
+Ron,Pigwidgeon,4.0
+Ron,Dobby,3.0
+Ron,Ginny,1.0
+Ron,Snape,2.0
+Ron,Professor Grubbly - Plank,1.0
+Ron,Fleur ’s sister,1.0
+Ron,Professor Sprout,1.0
+Ron,Hagrid,1.0
+Ron,Fred,1.0
+Ron,Percy,1.0
+Hermione,Harry,23.0
+Hermione,Ron,13.0
+Hermione,Bill,1.0
+Hermione,Neville,1.0
+Hermione,Hedwig,1.0
+Hermione,Dobby,1.0
+Hermione,Crouch,1.0
+Hermione,Krum,2.0
+Hermione,Hagrid,3.0
+Hermione,Rita Skeeter,3.0
+Hermione,Malfoy,1.0
+Hermione,Buckbeak,1.0
+Hermione,Sirius,1.0
+Hermione,Winky,1.0
+Dumbledore,Harry,18.0
+Dumbledore,Fred,1.0
+Dumbledore,George,1.0
+Dumbledore,Hagrid,2.0
+Dumbledore,Winky,1.0
+Dumbledore,Moody,5.0
+Dumbledore,Snape,1.0
+Dumbledore,Karkaroff,1.0
+Dumbledore,Crouch Junior,2.0
+Dumbledore,Sirius,1.0
+Dumbledore,Professor McGonagall,1.0
+Hagrid,Malfoy,1.0
+Hagrid,Harry,8.0
+Hagrid,Hermione,2.0
+Hagrid,Madame Maxime,5.0
+Hagrid,Sirius,1.0
+Hagrid,Rita Skeeter,1.0
+Hagrid,Dumbledore,2.0
+Hagrid,Ron,2.0
+Hagrid,Karkaroff,1.0
+Crouch,Ron,1.0
+Crouch,Winky,5.0
+Crouch,Mr. Diggory,1.0
+Crouch,Harry,4.0
+Crouch,Cedric,1.0
+Crouch,Dumbledore,2.0
+Crouch,Bertha Jorkins,1.0
+Moody,Harry,10.0
+Moody,Malfoy,1.0
+Moody,Hermione,2.0
+Moody,Ron,1.0
+Moody,Hagrid,3.0
+Moody,Professor McGonagall,1.0
+Moody,Crouch,1.0
+Cedric,Fleur,1.0
+Cedric,Harry,9.0
+Cedric,Cho,2.0
+Cedric,Krum,1.0
+Bagman,Harry,11.0
+Bagman,Fred,1.0
+Bagman,George,1.0
+Mr. Weasley,Harry,4.0
+Mr. Weasley,Mrs. Weasley,3.0
+Mr. Weasley,Bagman,1.0
+Mr. Weasley,Fred,1.0
+Mr. Weasley,George,1.0
+Mr. Weasley,Ron,1.0
+Krum,Harry,2.0
+Krum,Hermione,5.0
+Krum,Crouch,2.0
+Krum,Dumbledore,1.0
+Sirius,Harry,6.0
+Sirius,Ron,1.0
+Sirius,Crouch,2.0
+Winky,Crouch,2.0
+Karkaroff,Dumbledore,2.0
+Karkaroff,Sirius,1.0
+Karkaroff,Hermione,1.0
+Karkaroff,Krum,2.0
+Karkaroff,Fleur,1.0
+Karkaroff,Harry,2.0
+Karkaroff,Snape,2.0
+Voldemort,Frank,3.0
+Voldemort,Lily Potter,3.0
+Voldemort,Harry,7.0
+Voldemort,Wormtail,5.0
+Voldemort,Lucius Malfoy,1.0
+Voldemort,Cedric,2.0
+Voldemort,Winky,1.0
+Moody,Karkaroff,1.0
+Moody,Dumbledore,2.0
+Moody,Professor McGonagall,1.0
+Snape,Goyle,1.0
+Snape,Moody,1.0
+Snape,Harry,4.0
+Snape,Karkaroff,1.0
+Snape,Dumbledore,2.0
+Dobby,Harry,6.0
+Dobby,Moody,1.0
+Mrs. Weasley,Fred,2.0
+Mrs. Weasley,George,2.0
+Mrs. Weasley,Harry,7.0
+Mrs. Weasley,Mr. Weasley,1.0
+Mrs. Weasley,Percy,1.0
+Mrs. Weasley,Fleur,1.0
+Wormtail,Bertha Jorkins,1.0
+Wormtail,Frank,2.0
+Wormtail,Harry,1.0
+Rita Skeeter,Harry,2.0
+Rita Skeeter,Krum,1.0
+Malfoy,Harry,1.0
+Malfoy,Ron,2.0
+Malfoy,Hermione,1.0
+Malfoy,Fred,1.0
+Fred,Harry,1.0
+Fred,Baddock,1.0
+Fred,Hermione,1.0
+Fred,Bagman,1.0
+Fred,Ron,1.0
+Frank,Voldemort,1.0
+Frank,Wormtail,1.0
+Fudge,Mr. Weasley,1.0
+Fudge,Cedric,1.0
+Fudge,Harry,1.0
+Madame Maxime,Fleur,2.0
+Madame Maxime,Hagrid,1.0
+Madame Maxime,Hermione,1.0
+Madame Maxime,Krum,1.0
+George,Harry,1.0
+George,Baddock,1.0
+George,Professor McGonagall,1.0
+George,Bagman,1.0
+George,Malfoy,1.0
+George,Crabbe,1.0
+Fleur,Harry,2.0
+Fleur,Ron,1.0
+Fleur,Cedric,1.0
+Uncle Vernon,Harry,1.0
+Uncle Vernon,Aunt Petunia,1.0
+Uncle Vernon,Crouch,1.0
+Professor McGonagall,Hermione,1.0
+Professor McGonagall,Peeves,1.0
+Professor McGonagall,George,1.0
+Professor McGonagall,Harry,4.0
+Professor McGonagall,Crouch Junior,1.0
+Neville,Ron,1.0
+Percy,Bagman,2.0
+Percy,Crouch,3.0
+Percy,Ron,2.0
+Bill,Fleur,1.0
+Snape,Fudge,1.0
+Mr. Diggory,Crouch,1.0
+Mr. Diggory,Harry,1.0
+Hedwig,Crookshanks,1.0
+Percy,Dumbledore,1.0
+Bertha Jorkins,Harry,1.0
+Ginny,Ron,2.0
+Ginny,Harry,1.0
+Myrtle,Harry,1.0
+Charlie,Ginny,1.0
+Charlie,Madame Maxime,1.0
+Professor Trelawney,Ron,1.0
+Professor Trelawney,Harry,1.0
+Parvati,Padma,1.0
+Cho,Harry,2.0
+Cho,Cedric,1.0
+Filch,Dumbledore,1.0
+Filch,Harry,2.0
+Madam Pomfrey,Harry,3.0
+Madam Pomfrey,Ron,1.0
+Lucius Malfoy,Fudge,1.0
+the Fat Lady,Ron,1.0
+Dean,Harry,1.0
+Pansy Parkinson,Hermione,1.0
+Professor Sprout,Harry,1.0
+Padma,Ron,2.0
+Voldemort,Nagini,1.0
+Lee Jordan,Harry,2.0
+Lee Jordan,Ron,1.0
+Lee Jordan,Hermione,1.0
+Lynch,Krum,1.0
+Professor Grubbly - Plank,Hagrid,1.0
+Dumbledore,Crouch,1.0
+Mrs. Norris,Filch,1.0
+Minerva,Fudge,1.0
+Moran,Lynch,1.0
+Macnair,Voldemort,1.0
+Connolly,Lynch,1.0
+Oliver Wood,Harry,2.0
