@@ -1,0 +1,60 @@
+E1,E2,W
+Elinor,Willoughby,11
+Elinor,Mrs. Dashwood,2
+Elinor,Mr. Palmer,4
+Elinor,Lucy,3
+Elinor,Mrs. Ferrars,5
+Elinor,Lady Middleton,1
+Elinor,Marianne,15
+Elinor,Colonel Brandon,2
+Elinor,Fanny,3
+Elinor,Edward Ferrars,5
+Elinor,Robert Ferrars,2
+Elinor,Mrs. Jennings,2
+Marianne,Sir John,1
+Marianne,Willoughby,3
+Marianne,Elinor,2
+Marianne,Edward Ferrars,5
+Marianne,Colonel Brandon,2
+Marianne,Fanny,1
+Marianne,Lucy,1
+Marianne,the maid,1
+Marianne,Mrs. Jennings,1
+Edward Ferrars,Elinor,6
+Edward Ferrars,Marianne,3
+Edward Ferrars,Lucy,4
+Edward Ferrars,Mrs. Jennings,1
+Willoughby,Elinor,4
+Willoughby,Marianne,8
+Lucy,Lady Middleton,1
+Lucy,Elinor,2
+Lucy,Edward Ferrars,3
+Lucy,Mrs. Jennings,1
+Mrs. Jennings,Willoughby,1
+Mrs. Jennings,Lady Middleton,1
+Mrs. Jennings,Elinor,4
+Mrs. Jennings,Colonel Brandon,4
+Mrs. Jennings,Lucy,1
+Mrs. Jennings,Edward Ferrars,1
+Mrs. Jennings,Marianne,3
+Colonel Brandon,Marianne,5
+Colonel Brandon,Elinor,1
+Mrs. Dashwood,Edward Ferrars,3
+Mrs. Dashwood,Willoughby,6
+Mrs. Dashwood,Elinor,2
+Mrs. Dashwood,Thomas,1
+Sir John,Willoughby,2
+Sir John,Marianne,1
+Sir John,Elinor,7
+Lady Middleton,Sir John,1
+Lady Middleton,Lucy,1
+Robert Ferrars,Elinor,2
+Robert Ferrars,Mrs. Ferrars,1
+Mr. Dashwood,Sir John,1
+Mr. Dashwood,Robert Ferrars,1
+Mr. Palmer,Marianne,1
+Willoughby,Margaret,1
+Mrs. Palmer,Elinor,1
+Mr. Harris,Marianne,1
+the servant,Edward Ferrars,1
+the house - maid,Marianne,1
