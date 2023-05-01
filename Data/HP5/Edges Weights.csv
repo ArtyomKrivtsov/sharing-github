@@ -1,0 +1,208 @@
+E1,E2,W
+Harry,Mrs. Figg,3.0
+Harry,Uncle Vernon,1.0
+Harry,Dudley,5.0
+Harry,Sirius,13.0
+Harry,Aunt Petunia,3.0
+Harry,Tonks,5.0
+Harry,Mrs. Weasley,7.0
+Harry,Hedwig,7.0
+Harry,Percy,2.0
+Harry,Fred,5.0
+Harry,George,4.0
+Harry,Ron,28.0
+Harry,Mr. Weasley,5.0
+Harry,Umbridge,6.0
+Harry,Fudge,2.0
+Harry,Malfoy,4.0
+Harry,Mundungus,1.0
+Harry,Alice Longbottom,1.0
+Harry,Wormtail,3.0
+Harry,Hermione,34.0
+Harry,Cho,8.0
+Harry,Luna,5.0
+Harry,Professor Trelawney,1.0
+Harry,Professor McGonagall,3.0
+Harry,Seamus,2.0
+Harry,Mrs. Norris,3.0
+Harry,Ernie,1.0
+Harry,Neville,7.0
+Harry,Angelina,2.0
+Harry,Pansy Parkinson,1.0
+Harry,Crabbe,1.0
+Ron,Harry,25.0
+Ron,Fred,3.0
+Ron,George,1.0
+Ron,Dumbledore,1.0
+Ron,Neville,4.0
+Ron,Hermione,12.0
+Hermione,Harry,16.0
+Hermione,Hedwig,1.0
+Hermione,Angelina,1.0
+Hermione,Crookshanks,1.0
+Hermione,Ron,4.0
+Sirius,Harry,8.0
+Sirius,Kreacher,3.0
+Umbridge,Hermione,6.0
+Umbridge,Harry,14.0
+Umbridge,Professor McGonagall,1.0
+Umbridge,Professor Trelawney,2.0
+Umbridge,Snape,1.0
+Dumbledore,Harry,9.0
+Mrs. Weasley,Harry,11.0
+Mrs. Weasley,Ron,2.0
+Fred,Harry,5.0
+Fred,Mundungus,1.0
+Fred,Angelina,1.0
+Fred,Ron,2.0
+Dudley,Uncle Vernon,1.0
+Dudley,Harry,1.0
+Mr. Weasley,Harry,7.0
+Mr. Weasley,Umbridge,1.0
+George,Harry,4.0
+George,Hermione,1.0
+George,Ron,2.0
+Professor McGonagall,Harry,8.0
+Uncle Vernon,Harry,4.0
+Angelina,Harry,5.0
+Angelina,Ron,1.0
+Cho,Harry,11.0
+Tonks,Harry,2.0
+Tonks,Hermione,1.0
+Tonks,Ginny,3.0
+Neville,Trevor,1.0
+Neville,Harry,2.0
+Moody,Harry,7.0
+Lupin,Harry,5.0
+Mrs. Figg,Harry,4.0
+Ginny,Mr. Weasley,1.0
+Ginny,Hermione,2.0
+Ginny,Harry,4.0
+Ginny,Ron,1.0
+Luna,Ron,2.0
+Luna,Harry,3.0
+Aunt Petunia,Dudley,4.0
+Aunt Petunia,Harry,2.0
+Aunt Petunia,Uncle Vernon,2.0
+Mundungus,Harry,3.0
+Kreacher,Sirius,2.0
+Malfoy,Harry,1.0
+Voldemort,Harry,1.0
+Percy,Harry,1.0
+Percy,Ron,1.0
+Professor Trelawney,Umbridge,2.0
+Dobby,Harry,2.0
+Professor Grubbly - Plank,Hedwig,1.0
+Katie,Harry,1.0
+Katie,Angelina,1.0
+Alicia,Harry,1.0
+Alicia,Angelina,1.0
+Kingsley,Hestia Jones,1.0
+Kingsley,Harry,1.0
+Kingsley,Mr. Weasley,1.0
+Parvati,Professor Trelawney,1.0
+Crookshanks,Hermione,1.0
+Sturgis Podmore,Hestia Jones,1.0
+Mrs. Norris,Filch,1.0
+Lavender,Professor Trelawney,1.0
+Marietta,Cho,1.0
+Madam Hooch,Crabbe,1.0
+Mr. Malfoy,Malfoy,1.0
+Professor Trelawney,Harry,1.0
+Tonks,Moody,1.0
+Harry,Dobby,4.0
+Harry,Moody,1.0
+Harry,Phineas Nigellus,2.0
+Harry,Dumbledore,4.0
+Harry,Kreacher,1.0
+Harry,Snape,2.0
+Harry,Hagrid,5.0
+Harry,Ginny,3.0
+Harry,Voldemort,1.0
+Harry,Filch,1.0
+Harry,Lupin,2.0
+Harry,Bane,1.0
+Harry,Firenze,1.0
+Harry,Dean,1.0
+Harry,Bellatrix,2.0
+Harry,the Death Eater,2.0
+Harry,Kingsley,1.0
+Harry,the goblin,1.0
+Harry,Nearly Headless Nick,1.0
+Hermione,Hagrid,1.0
+Hermione,Rita,1.0
+Hermione,Fred,1.0
+Hermione,George,1.0
+Hermione,Parvati,1.0
+Hermione,Lavender,1.0
+Hermione,Dobby,1.0
+Hermione,Luna,1.0
+Hagrid,Harry,6.0
+Hagrid,Fang,1.0
+Hagrid,Hermione,2.0
+Hagrid,Grawp,1.0
+Hagrid,Dawlish,1.0
+Ron,Ginny,1.0
+Umbridge,Hagrid,1.0
+Umbridge,Marietta,3.0
+Umbridge,Peeves,1.0
+Dumbledore,Sirius,3.0
+Dumbledore,Fawkes,1.0
+Dumbledore,Phineas Nigellus,1.0
+Dumbledore,Fudge,2.0
+Dumbledore,Snape,1.0
+Snape,Harry,9.0
+Snape,Sirius,3.0
+Snape,Montague,1.0
+Snape,Lupin,1.0
+Sirius,Dolohov,1.0
+Neville,Cho,1.0
+Cho,Umbridge,1.0
+Ginny,Fred,1.0
+Ginny,Luna,1.0
+Voldemort,Dumbledore,1.0
+Professor McGonagall,Ron,1.0
+Professor McGonagall,Ginny,1.0
+Professor McGonagall,Fred,1.0
+Professor McGonagall,George,1.0
+Professor McGonagall,Marietta,2.0
+Professor McGonagall,Umbridge,1.0
+Fudge,Umbridge,1.0
+Fred,Umbridge,1.0
+Malfoy,Umbridge,1.0
+James,Wormtail,1.0
+Mr. Weasley,Mrs. Weasley,1.0
+Rita,Hermione,2.0
+Rita,Harry,1.0
+Firenze,Harry,2.0
+Phineas Nigellus,Dumbledore,1.0
+Phineas Nigellus,Harry,2.0
+Lupin,Sirius,1.0
+Lupin,Snape,1.0
+Tonks,Mrs. Weasley,1.0
+the Death Eater,Neville,1.0
+Professor Flitwick,Harry,1.0
+Ernie,Malfoy,1.0
+Gilderoy,the Healer,1.0
+Wormtail,James,2.0
+Goyle,Malfoy,1.0
+Crabbe,Malfoy,1.0
+Bane,Harry,2.0
+Bane,Umbridge,2.0
+the Healer,Ron,2.0
+the Healer,Gilderoy,2.0
+the Healer,Harry,1.0
+the Healer,Ginny,1.0
+Lavender,Hermione,1.0
+Molly,Mrs. Weasley,1.0
+Jack Sloper,Angelina,1.0
+Voldemort,Avery,1.0
+Voldemort,Sirius,2.0
+Mrs. Norris,Peeves,1.0
+Stan,Harry,1.0
+Stan,Ron,1.0
+Stan,Madam Marsh,1.0
+Madam Pince,Ginny,1.0
+Professor Marchbanks,Umbridge,1.0
+Fawkes,Dumbledore,1.0
+Crookshanks,Ron,1.0
