@@ -1,0 +1,51 @@
+E1,E2,W
+Jon,Lily,3.0
+Jon,Hermione Granger,1.0
+Jon,Professor McGonagall,2.0
+Jon,Neville,7.0
+Jon,Niffler,2.0
+Jon,Hagrid,3.0
+Jon,Slughorn,3.0
+Jon,Filch,3.0
+Jon,Ron,1.0
+Jon,Beech,2.0
+Jon,Dumbledore,2.0
+Slughorn,Jon,10.0
+Slughorn,Dumbledore,3.0
+Slughorn,Professor Flitwick,1.0
+Neville,Jon,12.0
+Neville,Niffler,1.0
+Neville,Filch,1.0
+Ron,Jon,2.0
+Ron,that man,1.0
+Dumbledore,Neville,1.0
+Dumbledore,Jon,3.0
+Dumbledore,Professor McGonagall,2.0
+Dumbledore,Lily,1.0
+Dumbledore,Professor Flitwick,1.0
+Lily,the youth,1.0
+Lily,Jon,12.0
+Lily,the older witch,1.0
+Lily,Slughorn,1.0
+Lily,Dumbledore,1.0
+Lily,Filch,1.0
+Professor McGonagall,Jon,6.0
+Professor McGonagall,Dumbledore,1.0
+Professor McGonagall,Filch,1.0
+Filch,Professor Flitwick,2.0
+Hagrid,Jon,3.0
+Hagrid,Niffler,2.0
+Hagrid,Beech,1.0
+Voldemort,Slughorn,1.0
+Voldemort,Dumbledore,1.0
+Voldemort,Harry Potter,1.0
+Justin,Jon,1.0
+Snape,a stranger,1.0
+Moody,Slughorn,1.0
+the professor,Jon,1.0
+the older witch,Lily,1.0
+The senior girl,Neville,1.0
+This somewhat snobbish professor,Jon,1.0
+This somewhat snobbish professor,Lavender,1.0
+This somewhat snobbish professor,Justin,1.0
+Snape,Slughorn,1.0
